@@ -1,0 +1,3 @@
+//Allow All crowlers to index all pages
+User-agent: *
+Allow: /
